@@ -17,7 +17,7 @@ mpirun -np [NI] --oversubscribe ./HPP-MPI [N] [NP] [I] [MS]
 
 <kbd>I</kbd> : Quantidade de interações.
 
-<kbd>MS</kbd> (Opcional): Se informado produz uma animação no terminal com uma taxa de atualização em milisegundos. Caso seja omitido realiza a comparação da execução paralela e sequêncial.
+<kbd>MS</kbd> (Opcional): Taxa de atualização em milisegundos. Se informado produz uma animação no terminal. Caso seja omitido realiza a comparação da execução paralela e sequêncial.
 
 ### Exemplo 1
 
