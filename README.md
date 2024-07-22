@@ -13,7 +13,7 @@ mpirun -np [NI] --oversubscribe ./HPP-MPI [N] [NP] [I] [MS]
 
 <kbd>N</kbd> : Tamanho da matriz NxN.
 
-<kbd>NP</kbd> : Quantidade e partículas.
+<kbd>NP</kbd> : Quantidade de partículas.
 
 <kbd>I</kbd> : Quantidade de interações.
 
