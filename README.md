@@ -22,7 +22,7 @@ mpirun -np [NI] --oversubscribe ./bin/HPP-MPI [N] [NP] [I] [MS]
 mpirun -np 8 --oversubscribe ./HPP-MPI 40 200 100
 ```
 <p align="center">
-    <img src="/imagens/exemplo2.png" width="80%">
+    <img src="/images/exemplo2.png" width="80%">
 </p>
 
 ### Exemplo 2
@@ -31,5 +31,5 @@ mpirun -np 8 --oversubscribe ./HPP-MPI 40 200 100
 mpirun -np 8 --oversubscribe ./HPP-MPI 40 200 100 50000
 ```
 <p align="center">
-    <img src="/imagens/exemplo1.gif" width="80%">
+    <img src="/images/exemplo1.gif" width="80%">
 </p>
