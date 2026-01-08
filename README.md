@@ -1,12 +1,9 @@
 # HPP-MPI
-## Compilação
-```
-mpicc -o HPP-MPI HPP_MPI.c
-```
+
 ## Execução
 
 ```
-mpirun -np [NI] --oversubscribe ./HPP-MPI [N] [NP] [I] [MS]
+mpirun -np [NI] --oversubscribe ./bin/HPP-MPI [N] [NP] [I] [MS]
 ```
 
 <kbd>NI</kbd> : Quantidade de processos para execução paralela.
